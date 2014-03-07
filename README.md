@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node.js Starter
 Single Page App setup using industry's best practices and modules.
 Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap.
@@ -53,3 +54,7 @@ Run from your terminal:
 
 ## Licence 
 MIT
+=======
+cmucoffee
+=========
+>>>>>>> 6fb7c83c0797047e682da7a6bfcfc2e147f681f9
